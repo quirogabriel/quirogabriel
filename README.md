@@ -8,4 +8,4 @@ Sou um amante da programação e também um programador em desenvovimento!
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, aprender novas línguas, jogos e séries.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GabrielQuiroga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-quiroga-1b160b152/)](https://www.linkedin.com/in/gabriel-quiroga-1b160b152/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gb.quiroga20@gmail.com)](mailto:gb.quiroga20@gmail.com)
