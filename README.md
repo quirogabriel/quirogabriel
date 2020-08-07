@@ -1,10 +1,5 @@
+## Olá pessoal, prazer em conhecê-los. Me chamo Gabriel Quiroga 👋
 
-
-# Thiago Marinho🤣
-
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
