@@ -1,7 +1,7 @@
 ## Olá pessoal, prazer em conhecê-los. Me chamo Gabriel Quiroga 👋
 
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+ :book:  &nbsp; 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
