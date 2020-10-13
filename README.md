@@ -4,7 +4,7 @@ Sou um amante da programação e também um programador em desenvovimento!
 
  :book:  &nbsp; Atualmente cursando Sistema de Informação na UNESA
  <br/> :purple_heart: &nbsp; Buscando me aperfeiçoar junto com o mercado nas tecnologias back-end
- <br/> :blush: &nbsp; Posso te ajudar com o que eu sei de Java, Javascript, HTML, CSS e SQL Server
+ <br/> :blush: &nbsp; Posso te ajudar com o que eu sei de Java, c++ Javascript, HTML, CSS e SQL Server
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, aprender novas línguas, jogos e séries.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GabrielQuiroga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-quiroga-1b160b152/)](https://www.linkedin.com/in/gabriel-quiroga-1b160b152/) 
 | 
